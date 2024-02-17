@@ -234,7 +234,7 @@ with st.sidebar :
     default_index=0)
 
 if (selected == 'Profile Kelompok') :
-    st.title('Proyek Analisis Data: Nama dataset')   
+    st.title('Dashboard Analisis Data E-commerce')   
     profile_kelompok() 
 elif (selected == 'Analisis Total Pendapatan') :
     st.title(f"Analisis Total Pendapatan")
