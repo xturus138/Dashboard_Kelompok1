@@ -109,7 +109,7 @@ def Analisis_Kota():
     st.pyplot(fig)
     
     with st.expander("Penjelasan Analisis Kota") :
-        st.write('Kota Sao Paulo memiliki total penjualan yang paling tinggi dan paling signifikan dibandingkan dengan kota-kota lainnya. Sedangkan kota <b>polo petroquimico de triunfo</b> memiliki total penjualan terendah dari kota-kota lainnya.<br> 5 kota dengan penjualan tertinggi tersebut bisa menjadi pusat strategi bisnis dan marketing perusahaan, namun apabila sumber daya yang dimiliki sangat terbatas, kita bisa memusatkannya lagi sehingga hanya 2 kota saja yaitu Sao Paulo dan Rio De Janeiro. Sedangkan untuk 5 kota terendah, ini akan menjadi bahan penelitian bagi perusahaan, mengapa hal demikian bisa terjadi.')
+        st.write('Kota Sao Paulo memiliki total penjualan yang paling tinggi dan paling signifikan dibandingkan dengan kota-kota lainnya. Sedangkan kota polo petroquimico de triunfo memiliki total penjualan terendah dari kota-kota lainnya.5 kota dengan penjualan tertinggi tersebut bisa menjadi pusat strategi bisnis dan marketing perusahaan, namun apabila sumber daya yang dimiliki sangat terbatas, kita bisa memusatkannya lagi sehingga hanya 2 kota saja yaitu Sao Paulo dan Rio De Janeiro. Sedangkan untuk 5 kota terendah, ini akan menjadi bahan penelitian bagi perusahaan, mengapa hal demikian bisa terjadi.')
     
 
 
